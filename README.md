@@ -1,4 +1,3 @@
-
     #PokedexCLI
     
     - You'll need to use the PokeAPI (https://pokeapi.co/) location-area endpoint (https://pokeapi.co/docs/v2#location-areas) to get the location areas. Note that this is a different endpoint than the "location" endpoint. Calling the endpoint without an id will return a batch of location areas.
